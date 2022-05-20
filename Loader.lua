@@ -29,17 +29,12 @@ local Notification = loadstring(game:HttpGet("https://raw.githubusercontent.com/
         loadstring(game:HttpGet("https://raw.githubusercontent.com/03koios/OnlineBusinessSimulator2/main/README.md"))()
     end
     
-    if Pl == 8781849572 then
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/03koios/StarSimulatorBeta/main/README.md"))()
-    end
-    
+
+   
     if Pl == 6904735821 then
         loadstring(game:HttpGet("https://raw.githubusercontent.com/03koios/ShoeSimulator/main/README.md"))()   
     end
     
-    if Pl == 6953291455 then
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/03koios/EatingSimulator/main/README.md"))()
-    end
 
     if Pl == 1962086868 then
         loadstring(game:HttpGet("https://raw.githubusercontent.com/03koios/TowerOfHell/main/README.md"))()
@@ -73,9 +68,6 @@ local Notification = loadstring(game:HttpGet("https://raw.githubusercontent.com/
         loadstring(game:HttpGet("https://raw.githubusercontent.com/03koios/BaseBattles/main/README.md"))()
     end
 
-    if Pl == 9280120396 then
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/03sAlt/PetAdventureSimulator/main/README.md"))()
-    end
 
     if Pl == 6284583030 then
         loadstring(game:HttpGet("https://raw.githubusercontent.com/03koios/PetSimulatorx/main/PetSimulatorXBobux"))()
