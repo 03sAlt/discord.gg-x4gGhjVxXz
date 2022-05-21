@@ -21,7 +21,6 @@
 [+] Destruction Simulator
 ]]
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/03sAlt/REMAKE/main/README.md"))()
 
 local Notification = loadstring(game:HttpGet("https://raw.githubusercontent.com/03koios/asdsadsadd/main/README.md"))()
 
