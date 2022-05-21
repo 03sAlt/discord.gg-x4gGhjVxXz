@@ -100,3 +100,7 @@ local Notification = loadstring(game:HttpGet("https://raw.githubusercontent.com/
     if Pl == 7993293100 then
         loadstring(game:HttpGet('https://raw.githubusercontent.com/03sAlt/TsunamiGame/main/README.md'))()
     end
+
+    if Pl == 6783611814 then
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/03sAlt/BuildaBoattoSurvive/main/README.md"))()
+    end
