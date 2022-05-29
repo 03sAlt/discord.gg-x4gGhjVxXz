@@ -24,11 +24,6 @@
 
 local Notification = loadstring(game:HttpGet("https://raw.githubusercontent.com/03koios/asdsadsadd/main/README.md"))()
 
-local sound = Instance.new("Sound", game.Workspace)
-sound.SoundId = "rbxassetid://6958727243"
-sound.Looped = false
-sound:Play()
-
 
    local Pl = game.PlaceId
     if Pl == 5327880096 then
