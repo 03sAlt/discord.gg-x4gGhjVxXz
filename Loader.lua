@@ -109,3 +109,16 @@ local Notification = loadstring(game:HttpGet("https://raw.githubusercontent.com/
     if Pl == 537413528 then
         loadstring(game:HttpGet("https://raw.githubusercontent.com/03koios/BuildABoatForTreasuree/main/README.md"))()
     end
+
+print("--------------------------------------------------")
+print("Welcome User " ..game.Players.LocalPlayer.Name)
+print("Game ID " .. game.PlaceId)
+print("Game Link " .. "https://www.roblox.com/games/"..game.PlaceId.."/")
+
+print("--------------------------------------------------")
+print("Credits Script : Lura#0001 And 03.s#6260")
+print("Discord Server : discord.gg/x4gGhjVxXz")
+print("Ban Appeal : https://dyno.gg/form/c0b106fc")
+
+print("----- Keys -----")
+print("Key Last Used : NoGirlFriend?")
