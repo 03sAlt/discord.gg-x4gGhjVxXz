@@ -61,7 +61,7 @@ local Notification = loadstring(game:HttpGet("https://raw.githubusercontent.com/
         loadstring(game:HttpGet("https://raw.githubusercontent.com/03koios/NaturalDisasterSurvival/main/README.md"))()
     end 
     
-    if Pl == 3101667897 then
+    if Pl == 3101667897 or Pl == 3276265788  then
         loadstring(game:HttpGet("https://raw.githubusercontent.com/03koios/LegendsOfSpeedOP/main/README.md"))()
     end 
     
