@@ -110,6 +110,10 @@ local Notification = loadstring(game:HttpGet("https://raw.githubusercontent.com/
         loadstring(game:HttpGet("https://raw.githubusercontent.com/03koios/BuildABoatForTreasuree/main/README.md"))()
     end
 
+    if Pl == 8750997647 then
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/03sAlt/TappingLegendsX/main/README.md"))()
+    end
+
 print("--------------------------------------------------")
 print("Welcome User " ..game.Players.LocalPlayer.Name)
 print("Game ID " .. game.PlaceId)
