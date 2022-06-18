@@ -25,103 +25,71 @@
 local Notification = loadstring(game:HttpGet("https://raw.githubusercontent.com/03koios/asdsadsadd/main/README.md"))()
 
 
-   local Pl = game.PlaceId
-    if Pl == 5327880096 then
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/03koios/OnlineBusinessSimulator2/main/README.md"))()
-    end
-    
+  local PlaceId = game.PlaceId
 
-   
-    if Pl == 6904735821 then
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/03koios/ShoeSimulator/main/README.md"))()   
-    end
-    
+if PlaceId == 5327880096 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/03koios/OnlineBusinessSimulator2/main/README.md"))()
 
-    if Pl == 1962086868 then
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/03koios/TowerOfHell/main/README.md"))()
-    end   
+elseif PlaceId == 6904735821 or PlaceId == 6904735821 or PlaceId == 6904735821 then
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/03koios/ShoeSimulator/main/README.md"))()
 
-    if Pl == 4954752502 then
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/03koios/TowerOfMistery/main/README.md"))()
-   end
-   
-    if Pl == 5902977746 then
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/03sAlt/UltimateTowerDefense/main/README.md"))()
-    end 
-    
-    if Pl == 8884433153 then
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/03koios/CollectAllPets/main/README.md"))()
-    end 
-    
-    if Pl == 4003872968 then
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/03koios/GiantSurvival/main/README.md"))()
-    end 
-    
-    if Pl == 189707 then
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/03koios/NaturalDisasterSurvival/main/README.md"))()
-    end 
-    
-    if Pl == 3101667897 or Pl == 3276265788  then
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/03koios/LegendsOfSpeedOP/main/README.md"))()
-    end 
-    
-    if Pl == 5326405001 then
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/03koios/BaseBattles/main/README.md"))()
-    end
+elseif PlaceId == 1962086868 or PlaceId == 1962086868 or PlaceId == 1962086868 then
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/03koios/TowerOfHell/main/README.md"))()
+
+elseif PlaceId == 4954752502 or PlaceId == 4954752502 or PlaceId == 4954752502 then
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/03koios/TowerOfMistery/main/README.md"))()   
+
+elseif PlaceId == 5902977746 or PlaceId == 5902977746 or PlaceId == 5902977746 then
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/03sAlt/UltimateTowerDefense/main/README.md"))()
+
+elseif PlaceId == 8884433153 or PlaceId == 8884433153 or PlaceId == 8884433153 then
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/03koios/CollectAllPets/main/README.md"))() 
+
+elseif PlaceId == 4003872968 or PlaceId == 4003872968 or PlaceId == 4003872968 then
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/03koios/GiantSurvival/main/README.md"))()
+
+elseif PlaceId == 189707 or PlaceId == 189707 or PlaceId == 189707 then
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/03koios/NaturalDisasterSurvival/main/README.md"))()
+
+elseif PlaceId == 3101667897 or PlaceId == 3101667897 or PlaceId == 3101667897 then
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/03koios/LegendsOfSpeedOP/main/README.md"))()
+
+elseif PlaceId == 5326405001 or PlaceId == 5326405001 or PlaceId == 5326405001 then
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/03koios/BaseBattles/main/README.md"))()
+
+elseif PlaceId == 5712833750 or PlaceId == 5712833750 or PlaceId == 5712833750 then
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/03koios/AnimalSimulator/main/README.md"))()
 
 
-    if Pl == 6284583030 then
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/03koios/PetSimulatorx/main/PetSimulatorXBobux"))()
-    end
+elseif PlaceId == 318978013 or PlaceId == 318978013 or PlaceId == 318978013 then
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/03koios/KickOff/main/README.md"))()
 
-    if Pl == 734159876 then
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/03koios/SharkBite/main/BabyShark"))()
-    end
+elseif PlaceId == 1554960397 or PlaceId == 1554960397 or PlaceId == 1554960397 then
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/03koios/CarDealershipTycoon/main/README.md"))()
 
-    if Pl == 5712833750 then
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/03koios/AnimalSimulator/main/README.md"))()
-    end
+elseif PlaceId == 2248408710 or PlaceId == 2248408710 or PlaceId == 2248408710 then
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/03koios/JaffsisGud/main/README.md"))()
 
-    if Pl == 318978013 then
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/03koios/KickOff/main/README.md"))()
-    end
 
-    if Pl == 1554960397 then
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/03koios/CarDealershipTycoon/main/README.md"))()
-    end
+elseif PlaceId == 662417684 or PlaceId == 662417684 or PlaceId == 662417684 then
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/03sAlt/LuckyBlocksBattlegrounds/main/README.md"))()
 
-    if Pl == 2248408710 then
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/03koios/JaffsisGud/main/README.md"))()
-    end
+elseif PlaceId == 7993293100 or PlaceId == 7993293100 or PlaceId == 7993293100 then
+	loadstring(game:HttpGet('https://raw.githubusercontent.com/03sAlt/TsunamiGame/main/README.md'))()
 
-    if Pl == 662417684 then
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/03sAlt/LuckyBlocksBattlegrounds/main/README.md"))()
-    end
+elseif PlaceId == 537413528 or PlaceId == 537413528 or PlaceId == 537413528 then
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/03koios/BuildABoatForTreasuree/main/README.md"))()
 
-    if Pl == 7993293100 then
-        loadstring(game:HttpGet('https://raw.githubusercontent.com/03sAlt/TsunamiGame/main/README.md'))()
-    end
+elseif PlaceId == 3956818381 or PlaceId == 3956818381 or PlaceId == 3956818381 then
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/03koios/NinjaLegends/main/README.md"))()
 
-    if Pl == 6783611814 then
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/03sAlt/BuildaBoattoSurvive/main/README.md"))()
-    end
+elseif PlaceId == 6953291455 or PlaceId == 6953291455 or PlaceId == 6953291455 then
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/03koios/EatingSimulator/main/README.md"))()
 
-    if Pl == 537413528 then
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/03koios/BuildABoatForTreasuree/main/README.md"))()
-    end
+elseif PlaceId == 8992150289 or PlaceId == 8992150289 or PlaceId == 8992150289 then
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/03sAlt/AnimeSwordSimulator/main/README.md"))()
 
-    if Pl == 8750997647 then
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/03sAlt/TappingLegendsX/main/README.md"))()
-    end
-
-    if Pl == 3956818381 then
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/03koios/NinjaLegends/main/README.md"))()
-    end
-
-    if Pl == 6953291455 then
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/03koios/EatingSimulator/main/README.md"))()
-    end
-
-    if Pl == 8992150289 then
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/03sAlt/AnimeSwordSimulator/main/README.md"))()
-    end
+else
+local Lib = loadstring(game:HttpGet(("https://raw.githubusercontent.com/03sAlt/Ui/main/README.md"),true))() 
+Lib.prompt('03.s#6260 Say', 'Game Not Supported Daddy')
+end
